@@ -70,7 +70,7 @@ ALUMNOS DE 2 DEL DOBLE GRADO INFORMÁTICA-ADE
 UNIVERSIDAD DE GRANADA
 
 # Author:
-https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/Ismael_sallami.png
+![]https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/Ismael_sallami.png
 
 
 */
