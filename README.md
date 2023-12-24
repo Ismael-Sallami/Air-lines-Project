@@ -14,7 +14,7 @@ En este proceso, hemos tenido la oportunidad de consolidar nuestros conocimiento
 
 # Ejecutables
 
-@image html rotacion.png
+[@image html rotacion.png](https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/rutas_aereas/doc/rotacion.png)
 ## Roatción de una imagen
 
 Rota la imagen proporcionando una serie de parámetros
@@ -26,7 +26,7 @@ Rota la imagen proporcionando una serie de parámetros
 
 La función "Pruebarotacion" tiene como objetivo principal rotar una imagen en formato PGM (Portable Gray Map) mediante la aplicación de un ángulo de rotación especificado.
 
-@image html pegado.png
+[@image html pegado.png](https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/rutas_aereas/doc/pegado.png)
 ## Pegado de una imagen en otra:
 Pega la imagen en otra, seleccionando el tipo Opaco o Blending
 
@@ -40,7 +40,7 @@ Pega la imagen en otra, seleccionando el tipo Opaco o Blending
 
 La función "pruebapegado" tiene como finalidad unir dos imágenes, permitiendo al usuario seleccionar entre dos tipos de pegado: opaco (0) o blending (1). 
 
-@image html PLANE.png
+[@image html PLANE.png](https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/rutas_aereas/doc/PLANE.png)
 ## Generar y pintar ruta aérea
 
 Este programa obtiene un mapa del mundo sobre el que se ha pintado una ruta elegida. Para
