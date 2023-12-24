@@ -1,6 +1,8 @@
-/*! \mainpage Rutas Aereas
+/Rutas Aereas
 
 @image html [fondo.png](https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/rutas_aereas/doc/fondo.png) "Práctica Rutas Aéreas"
+
+![Texto alternativo](https://github.com/Ismael-Sallami/Air-lines-Project/raw/main/rutas_aereas/doc/fondo.png)
 
 # Introducción
 
